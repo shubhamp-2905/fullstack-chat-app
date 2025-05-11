@@ -59,6 +59,7 @@ A real-time chat application built with the MERN stack, enabling users to commun
   cd frontend
   npm install
   npm start
+  
 5. **Env File**
   MONGO_URI=your_mongodb_connection_string
   JWT_SECRET=your_jwt_secret
