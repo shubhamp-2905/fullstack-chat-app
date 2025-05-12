@@ -6,8 +6,7 @@ A real-time chat application built with the MERN stack, enabling users to commun
 
 ## 🚀 Live Demo
 
-🔗 [View Live Application](https://your-deployment-link.com)  
-*(Replace with your actual deployed link)*
+🔗soon..
 
 ---
 
